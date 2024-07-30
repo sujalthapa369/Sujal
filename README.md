@@ -3,6 +3,7 @@
 ## Overview
 
 The **All Rounder Calculator** is a versatile Python-based calculator that provides various functionalities including arithmetic operations, bitwise operations, temperature conversions, and pattern generation. This mini project offers a user-friendly command-line interface for performing a wide range of calculations and visualizations.
+https://t3.ftcdn.net/jpg/08/10/46/08/360_F_810460812_QufOBLxT7GGvPOm4GR2FWzKAV4Q3WTgc.jpg
 
 ## Features
 
